@@ -1,6 +1,13 @@
 # Frontend Mentor - Results summary component
 
-![Design preview for the Results summary component coding challenge](./design/desktop-preview.jpg)
+# See my result
+
+[Felipe Bolgar Result](https://results-summary-component-main-astro.vercel.app/)
+
+# Tools I used for this proyect:
+
+- [Astro](https://astro.build/)
+- [Tailwind CSS](https://tailwindcss.com/)
 
 ## Welcome! 👋
 
